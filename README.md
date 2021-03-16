@@ -1,2 +1,2 @@
-# http://pavankumarp.github.io
+# pavankumarp.github.io
 My Personal Website
